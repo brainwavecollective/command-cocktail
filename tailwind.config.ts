@@ -54,11 +54,11 @@ export default {
           foreground: "hsl(var(--card-foreground))",
         },
         command: {
-          file: "#4CAF50",
-          process: "#FF5722",
-          system: "#2196F3",
-          network: "#9C27B0",
-          user: "#FFC107",
+          file: "#F2FCE2",     // Soft Green
+          process: "#FEC6A1",  // Soft Orange
+          system: "#D3E4FD",   // Soft Blue
+          network: "#E5DEFF",  // Soft Purple
+          user: "#FEF7CD",     // Soft Yellow
         }
       },
       borderRadius: {
